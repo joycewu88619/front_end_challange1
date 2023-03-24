@@ -18,7 +18,8 @@ body{
   max-width: 300px; /* key */
   padding: 15px; /* key */
 }
-h2{
+h1{
+  font-size: 25px;
   color: hsl(218, 44%, 22%);
 }
 h3{
